@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # simple_shell
 
 A simple UNIX command interpreter making as a final project of the low-level programming and algorithm quarter at ALX school of software engineering
@@ -74,3 +75,6 @@ $ ./sodash $ setenv NAME Holberton $ unsetenv NAME $ echo $NAME
 
 Authors
 Oyeyinka Dairo nirvanarockoak@gmail.com   David Abegunde abegundedavid17@gmail.com
+=======
+# simple_shell
+>>>>>>> 752aef8146d75220d937183e2380bf96a252fd01
